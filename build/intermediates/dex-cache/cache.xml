@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\adnroid\XMPPChatDemo1\app\lib\asmack-2010.05.07.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="78842451dc1b8fec85ab6c16ce80e5f980bf7339">
+        <dex dex="D:\adnroid\XMPPChatDemo1\app\build\intermediates\pre-dexed\debug\asmack-2010.05.07-95416e30388c64fb91f35823914a85017c262760.jar" />
+    </item>
+
+</items>
